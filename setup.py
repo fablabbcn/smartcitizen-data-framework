@@ -63,7 +63,7 @@ setup(
                         'folium==0.12.1',
                         'geopy==1.21.0',
                         'importlib-metadata~=1.7.0',
-                        'Jinja2==2.11.2',
+                        'Jinja2==2.11.3',
                         'matplotlib==3.2.1',
                         'numpy~=1.19.4',
                         'pandas~=1.0.3',

@@ -70,7 +70,7 @@ setup(
                         'pdfrw==0.4',
                         'PDPbox==0.2.0',
                         'plotly~=4.14.3',
-                        'PyYAML==5.3.1',
+                        'PyYAML==5.4',
                         'requests==2.23.0',
                         'reportlab==3.5.*',
                         'scipy==1.4.1',

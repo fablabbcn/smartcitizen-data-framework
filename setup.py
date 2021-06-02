@@ -79,7 +79,7 @@ setup(
                         'termcolor==1.1.0',
                         'tqdm~=4.50.2',
                         'tzwhere==3.0.3',
-                        'urllib3==1.25.9'
+                        'urllib3==1.26.5'
                     ],
 
     setup_requires=['wheel'],
